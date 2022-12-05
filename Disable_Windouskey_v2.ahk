@@ -5,6 +5,6 @@ return
 
 LWin & F1::
 {
-MsgBox("Hello master! :3 you want some tea ?")
+MsgBox("Hello master! :3 you want some cookies? :3")
 return
 }
